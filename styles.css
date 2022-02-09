@@ -1,0 +1,29 @@
+/* Main page styles.css */
+h1 {
+font-family: cursive;
+color: aqua;
+background-color: burlywood;
+font-size: 72px;
+}
+
+h3 {
+font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+color: crimson;
+background-color: darkgoldenrod;
+font-size: 46px;
+}
+
+li {
+    font-style: oblique;
+
+}
+
+img {
+    height: 300px;
+    width: 400px;
+}
+
+p {
+font-family: fantasy;
+
+}
